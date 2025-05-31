@@ -28,7 +28,7 @@ class _AboutDialog extends StatelessWidget {
     final bodyTextStyle = textTheme.bodyLarge;
 
     final name = AppLocalizations.of(context)!.softWare;
-    final legalese = '© 2019-2023 imhansai';
+    final legalese = '© 2019-2025 imhansai';
     final seeSourceFirst = AppLocalizations.of(context)!.seeSource;
     final repoText = 'weifangbus GitHub ' + AppLocalizations.of(context)!.repo;
     final seeSourceSecond = '。';
